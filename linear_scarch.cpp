@@ -38,4 +38,6 @@ int main(){
 
     cout<<linear_search(arr,s2,target)<<endl;
     return 0;
+
+    
 }
