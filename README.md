@@ -189,3 +189,11 @@ C++ (Primary)
 
 Feel free to fork this repository and contribute by adding more DSA problems and solutions in C++.
 Pull requests are always welcome!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0007-reverse-integer) |
+<!---LeetCode Topics End-->
