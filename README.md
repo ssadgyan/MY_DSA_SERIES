@@ -196,4 +196,12 @@ Pull requests are always welcome!
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0007-reverse-integer) |
+## Array
+|  |
+| ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0081-search-in-rotated-sorted-array-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0081-search-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->
