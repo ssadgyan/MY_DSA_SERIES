@@ -200,8 +200,10 @@ Pull requests are always welcome!
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
