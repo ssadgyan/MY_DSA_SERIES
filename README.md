@@ -202,9 +202,22 @@ Pull requests are always welcome!
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0717-1-bit-and-2-bit-characters) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Binary Search
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/2274-keep-multiplying-found-values-by-two) |
+## Sorting
+|  |
+| ------- |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/2274-keep-multiplying-found-values-by-two) |
+## Simulation
+|  |
+| ------- |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/2274-keep-multiplying-found-values-by-two) |
 <!---LeetCode Topics End-->
