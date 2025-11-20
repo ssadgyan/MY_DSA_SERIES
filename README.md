@@ -199,6 +199,7 @@ Pull requests are always welcome!
 ## Array
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -206,6 +207,7 @@ Pull requests are always welcome!
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Hash Table
@@ -220,4 +222,8 @@ Pull requests are always welcome!
 |  |
 | ------- |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/2274-keep-multiplying-found-values-by-two) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
