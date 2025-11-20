@@ -196,6 +196,7 @@ Pull requests are always welcome!
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0007-reverse-integer) |
+| [3227-find-missing-and-repeated-values](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/3227-find-missing-and-repeated-values) |
 ## Array
 |  |
 | ------- |
@@ -205,6 +206,7 @@ Pull requests are always welcome!
 | [0240-search-a-2d-matrix-ii](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0240-search-a-2d-matrix-ii) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0717-1-bit-and-2-bit-characters) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3227-find-missing-and-repeated-values](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -216,6 +218,7 @@ Pull requests are always welcome!
 |  |
 | ------- |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3227-find-missing-and-repeated-values](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/3227-find-missing-and-repeated-values) |
 ## Sorting
 |  |
 | ------- |
@@ -229,6 +232,7 @@ Pull requests are always welcome!
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0240-search-a-2d-matrix-ii) |
+| [3227-find-missing-and-repeated-values](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/3227-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
