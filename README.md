@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0054-spiral-matrix) |
+| [0287-find-the-duplicate-number](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0287-find-the-duplicate-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Matrix
 |  |
@@ -23,4 +24,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0054-spiral-matrix) |
+## Two Pointers
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0287-find-the-duplicate-number) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
