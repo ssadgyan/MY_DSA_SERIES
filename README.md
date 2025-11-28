@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0067-add-binary) |
 | [0263-ugly-number](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0263-ugly-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1015-smallest-integer-divisible-by-k) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -11,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0008-string-to-integer-atoi) |
+| [0067-add-binary](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0067-add-binary) |
 ## Array
 |  |
 | ------- |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0067-add-binary) |
 ## Two Pointers
 |  |
 | ------- |
@@ -41,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
