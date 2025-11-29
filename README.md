@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0067-add-binary) |
 | [0263-ugly-number](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0263-ugly-number) |
+| [0509-fibonacci-number](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0509-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1015-smallest-integer-divisible-by-k) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## String
@@ -59,4 +60,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0015-3sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
