@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -96,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0561-array-partition) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
