@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0090-subsets-ii) |
 | [0228-summary-ranges](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0228-summary-ranges) |
 | [0287-find-the-duplicate-number](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0561-array-partition) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -45,12 +46,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0015-3sum) |
 | [0287-find-the-duplicate-number](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0349-intersection-of-two-arrays) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1015-smallest-integer-divisible-by-k) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Counting
@@ -71,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0015-3sum) |
+| [0349-intersection-of-two-arrays](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0561-array-partition) |
 ## Dynamic Programming
 |  |
