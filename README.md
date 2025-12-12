@@ -135,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1925-count-square-sum-triples) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
