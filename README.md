@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0263-ugly-number) |
 | [0509-fibonacci-number](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0509-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0015-3sum) |
 | [0141-linked-list-cycle](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0876-middle-of-the-linked-list) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0349-intersection-of-two-arrays) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1394-find-lucky-integer-in-an-array) |
