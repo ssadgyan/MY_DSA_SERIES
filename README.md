@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0067-add-binary) |
+| [0168-excel-sheet-column-title](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0263-ugly-number) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0008-string-to-integer-atoi) |
 | [0067-add-binary](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0067-add-binary) |
+| [0168-excel-sheet-column-title](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0171-excel-sheet-column-number) |
 ## Array
 |  |
