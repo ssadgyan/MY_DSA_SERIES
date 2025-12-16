@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0509-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -147,4 +148,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0175-combine-two-tables) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
