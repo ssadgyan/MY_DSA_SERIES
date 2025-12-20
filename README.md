@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0171-excel-sheet-column-number) |
+| [0944-delete-columns-to-make-sorted](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0944-delete-columns-to-make-sorted) |
 ## Array
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0561-array-partition) |
+| [0944-delete-columns-to-make-sorted](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0944-delete-columns-to-make-sorted) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
