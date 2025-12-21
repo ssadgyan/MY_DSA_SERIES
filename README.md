@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0342-power-of-four) |
+| [0415-add-strings](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0509-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0171-excel-sheet-column-number) |
+| [0415-add-strings](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0415-add-strings) |
 | [0944-delete-columns-to-make-sorted](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0944-delete-columns-to-make-sorted) |
 ## Array
 |  |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0415-add-strings) |
 ## Two Pointers
 |  |
 | ------- |
