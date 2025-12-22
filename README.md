@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0415-add-strings) |
+| [0507-perfect-number](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0509-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1523-count-odd-numbers-in-an-interval-range) |
