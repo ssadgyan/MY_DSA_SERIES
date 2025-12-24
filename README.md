@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0561-array-partition) |
 | [0944-delete-columns-to-make-sorted](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/0944-delete-columns-to-make-sorted) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1800-maximum-ascending-subarray-sum](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/1800-maximum-ascending-subarray-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3074-apple-redistribution-into-boxes](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/3074-apple-redistribution-into-boxes) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SadgyanSingh/MY_DSA_SERIES/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
